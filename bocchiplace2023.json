@@ -1,0 +1,18 @@
+{
+    "faction": "/r/BocchiTheRock",
+    "contact": "discord.gg/bocchi",
+    "notifications": "",
+    "templates": [
+        {
+            "name": "KessokuBand",
+            "sources": [
+                "https://i.imgur.com/4gs0xuh.png"
+            ],
+            "priorityMaskSources": [
+                "https://i.imgur.com/ivGWzCV.png"
+            ],
+            "x": 281,
+            "y": 340,
+        },
+    ],
+}
