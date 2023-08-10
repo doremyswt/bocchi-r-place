@@ -1,18 +1,277 @@
 {
-    "faction": "/r/BocchiTheRock",
-    "contact": "discord.gg/bocchi",
-    "notifications": "",
-    "templates": [
-        {
-            "name": "KessokuBand",
-            "sources": [
-                "https://i.imgur.com/4gs0xuh.png"
-            ],
-            "priorityMaskSources": [
-                "https://i.imgur.com/ivGWzCV.png"
-            ],
-            "x": 281,
-            "y": 340,
-        },
-    ],
+  "contact": "discord.gg/kessokuband / talk to @doremy. or @domoandfinch",
+  "faction": "/r/BocchiTheRock",
+  "blacklist": [],
+  "templates": [
+    {
+      "x": 2088,
+      "y": 632,
+      "name": "Bocchi1",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132058634063458386/1132663941781274664/template.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/852693608196472843/1132332864726380594/current_template.png"
+      ]
+    },
+    {
+      "x": 1349,
+      "y": 1384,
+      "name": "Bocchi2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132357375530111096/boccher_1_1.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132357375760805999/boccher_1_normal.png"
+      ]
+    },
+    {
+      "x": 2161,
+      "y": 643,
+      "name": "ENS",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132072816129351742/1132073034547744818/image.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132016543727882250/ensnormal2.png"
+      ]
+    },
+    {
+      "x": 2160,
+      "y": 634,
+      "name": "TenSura",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132079293472706600/tensura.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132079293950865538/tensuranormal.png"
+      ]
+    },
+    {
+      "x": 2250,
+      "y": 633,
+      "name": "pochita",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131946888233496597/1131992245864759346/pochita.png"
+      ],
+      "priorityMaskSources": [
+        "https://cdn.discordapp.com/attachments/1131946888233496597/1131992415364984933/bocchicolor3_2.png"
+      ]
+    },
+    {
+      "x": 2172,
+      "y": 1720,
+      "name": "kikuri",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132755358570528888/asdad_1.png"
+      ]
+    },
+    {
+      "x": 1340,
+      "y": 1384,
+      "name": "small communities",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132381120462340117/littlecom.png"
+      ]
+    },
+    {
+      "x": 1366,
+      "y": 1386,
+      "name": "TenSura2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132435555959984239/image_4.png"
+      ]
+    },
+    {
+      "x": 2947,
+      "y": 1007,
+      "name": "ens bocchi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131724771898429480/1133196672600637570/image.png"
+      ]
+    },
+    {
+      "x": 2961,
+      "y": 1226,
+      "name": "makima3",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131946888233496597/1133133264224260146/Makima_Synth3ticVI.png"
+      ]
+    },
+    {
+      "x": 914,
+      "y": 680,
+      "name": "KOn 2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131724771898429480/1132751111015641138/K-ON_lpace_template_final.png"
+      ]
+    },
+    {
+      "x": 1746,
+      "y": 123,
+      "name": "bocchitrash2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1132670384211251270/bocchitrashnew.png"
+      ]
+    },
+    {
+      "x": 1703,
+      "y": 88,
+      "name": "Big Yotsuba Collab Template",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132058634063458386/1132705931570974810/oop.png"
+      ]
+    },
+    {
+      "x": 1638,
+      "y": 93,
+      "name": "Bocchi the mexico",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132058634063458386/1132677637916086402/mexicoboccher2.png"
+      ]
+    },
+    {
+      "x": 2178,
+      "y": 1705,
+      "name": "YUI",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131660328309100694/1132763350187651172/Yui.png"
+      ]
+    },
+    {
+      "name": "kikuri2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/293485093861720064/1132824323342733332/kick_curry_version_seventy_million.png"
+      ],
+      "x": 2070,
+      "y": 1870
+    },
+    {
+      "name": "aikane",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132012939159818322/1132830535207637032/FFF_KANAXAKANE.png"
+      ],
+      "x": 212,
+      "y": 302
+    },
+    {
+      "name": "Nijika and Kita",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1133153807841370143/Proyecto_nuevo_17_1.png"
+      ],
+      "x": 2828,
+      "y": 1194
+    },
+    {
+      "name": "kikuriDE",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1133016272678944799/kikuriiDE.png"
+      ],
+      "x": 1416,
+      "y": 3
+    },
+    {
+      "name": "bocchi romania",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131724771898429480/1133139061939388467/image.png"
+      ],
+      "x": 0,
+      "y": 1374
+    },
+    {
+      "name": "iskeai bocchi",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/676554524487581696/1133064974508494888/Proyecto_nuevo_12.png"
+      ],
+      "x": 1880,
+      "y": 0
+    },
+    {
+      "name": "bocchi the philippine flag",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131660328309100694/1133385462413803570/boccheepflag_updated.png"
+      ],
+      "x": 223,
+      "y": 632
+    },
+    {
+      "name": "PA-San",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1133084702388006922/1133389466946506832/PA_San1x1_1.png"
+      ],
+      "x": 2777,
+      "y": 1724
+    },
+    {
+      "name": "PA-San Backup",
+      "sources": [
+        ""
+      ],
+      "x": 2794,
+      "y": 1748
+    },
+    {
+      "name": "kobeni",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131946888233496597/1133062718417539223/KobeniMustSuffer.png"
+      ],
+      "x": 1635,
+      "y": 323
+    }
+  ],
+  "whitelist": [
+    {
+      "url": "https://charity.pxls.space/p3ace",
+      "name": "P3ace"
+    },
+    {
+      "url": "https://osu.place/e/osuplace2023.json",
+      "name": "osu!"
+    },
+    {
+      "url": "https://rentry.co/catradorakiss/raw",
+      "name": "SPOP"
+    },
+    {
+      "url": "http://ub8qbd.satdump.org/oshinoko.json",
+      "name": "Oshi No ko"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ditiae/mushokutenseioverlay/main/aa.json",
+      "name": "Mushoku Tensei"
+    },
+    {
+      "url": "https://rentry.co/monsterhunterplace/raw",
+      "name": "Monster Hunter"
+    },
+    {
+      "url": "https://gist.githubusercontent.com/broad-well/da5e017eb19a9fdd711524ebb1e6146f/raw",
+      "name": "Michigan University"
+    },
+    {
+      "url": "https://template.vtubers.place/api/Template/raw",
+      "name": "VTubers Place"
+    },
+    {
+      "url": "http://ub8qbd.satdump.org/waitroom.json",
+      "name": "Oshi no Ko 2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json",
+      "name": "Touhou"
+    },
+    {
+      "name": "Hatsune",
+      "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+    },
+    {
+      "name": "Gacha Alliance",
+      "url": "https://gachaalliance.github.io/place2023/template.json"
+    },
+    {
+      "name": "isekai collection",
+      "url": "https://rentry.org/IsekaiCoalition2023/raw"
+    }
+  ],
+  "notifications": ""
 }
